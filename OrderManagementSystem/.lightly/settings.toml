@@ -1,0 +1,6 @@
+ports = []
+[languages.cpp]
+language = "cpp"
+[languages.cpp.run."main.cpp"]
+name = "main.cpp"
+path = "/workspace/HotelRoomManagementSystem/main.cpp"
